@@ -28,15 +28,24 @@ body {
   color: white;
   font-weight: bold;
 } 
+<<<<<<< HEAD
 
 .text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
+=======
+>>>>>>> 4bd157aeebd10cb6bf6695ddb20b96cbe7ac243b
 
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
+}
+
+div.text.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
 }
